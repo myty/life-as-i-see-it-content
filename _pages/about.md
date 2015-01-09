@@ -4,7 +4,7 @@ subTitle: "Hello, my name is Michael Tyson."
 headerBg: "/img/forest-high-hdr.jpg"
 date: 2014-12-02 -1100
 siteMenu: "About"
-siteMenuOrder: 0
+siteMenuOrder: 1
 layout: page
 ---
 
